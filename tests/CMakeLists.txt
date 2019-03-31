@@ -1,0 +1,2 @@
+add_executable(test_netease2017 test_netease2017.cpp)
+target_link_libraries(test_netease2017 netease2017_01)
