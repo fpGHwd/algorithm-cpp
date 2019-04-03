@@ -1,0 +1,4 @@
+add_executable(netease-p1 p20190402_1.cpp)
+add_executable(netease-p2 p20190402_1_2.cpp)
+add_executable(p1-3 p20190402_3.cpp)
+add_executable(problem2 problem2.cpp)
