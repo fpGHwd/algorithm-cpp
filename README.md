@@ -1,4 +1,4 @@
-# beauty-in-code
+# beauty-in-code 编程之美
 
 #cmakelist的简单语法
 可执行文件，目标

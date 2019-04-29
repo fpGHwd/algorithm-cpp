@@ -28,7 +28,7 @@ const int MAX_LEN = 1000000;
 char temp[MAX_LEN]= {0};
 
 int main(int argc, char ** argv){
-    freopen("/home/suzumiya/CLionProjects/beauty-in-code/data/input.txt", "r", stdin);
+    freopen("/home/suzumiya/CLionProjects/beauty-in-code/data/input", "r", stdin);
 
     char ch;
     int len=  0;
