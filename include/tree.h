@@ -5,6 +5,10 @@
 #ifndef BEAUTY_IN_CODE_TREE_H
 #define BEAUTY_IN_CODE_TREE_H
 
+#include <vector>
+
+using namespace std;
+
 struct TreeNode {
     int val;
     TreeNode *left;
@@ -21,5 +25,7 @@ struct TreeNode {
     Node():have_value(false), left(nullptr), right(nullptr){} // 构造函数
 };
  */
+
+TreeNode* makeBinarySearchTree(TreeNode *root, vector<int> nums);
 
 #endif //BEAUTY_IN_CODE_TREE_H

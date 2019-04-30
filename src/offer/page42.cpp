@@ -5,7 +5,7 @@
 #include <cstdio>
 
 int main(int argc, char ** argv){
-    char str1[] = "hello world";
+/*    char str1[] = "hello world";
     char str2[] = "hello world";
 
     char * str3 = "hello world";
@@ -21,6 +21,7 @@ int main(int argc, char ** argv){
         printf("str3 and str4 are same.\n");
     }else{
         printf("str3 and str4 are not same.\n");
-    }
+    }*/
 
+    return 0;
 }

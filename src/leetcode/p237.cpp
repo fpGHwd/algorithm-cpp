@@ -24,7 +24,7 @@ public:
     void deleteNode(ListNode* node) {
         ListNode* w = node;
         w->val = w->next->val;
-        void *next = w->next;
+        ListNode *next = w->next;
         w->next = w->next->next;
         delete(next);
     }
