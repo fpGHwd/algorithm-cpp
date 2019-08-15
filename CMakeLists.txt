@@ -4,8 +4,6 @@ set(CMAKE_CXX_STANDARD 14)
 
 include_directories(
         ${PROJECT_SOURCE_DIR}/include
-        ${PROJECT_SOURCE_DIR}/include/netease
-        ${PROJECT_SOURCE_DIR}/include/leetcode
         /usr/local/include
         /usr/include
 )
@@ -16,7 +14,6 @@ link_directories(
         /usr/local/lib64
         /usr/lib
 )
-
 
 # delete for important understanding and not store
 # https://blog.csdn.net/hebbely/article/details/79169965

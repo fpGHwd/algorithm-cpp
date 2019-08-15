@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/suzumiya/CLionProjects/beauty-in-code/src/offer/P12.cpp
+P12.h
+/home/suzumiya/CLionProjects/beauty-in-code/src/offer/P12.h
+iostream
+-
+cstring
+-
+
+/home/suzumiya/CLionProjects/beauty-in-code/src/offer/P12.h
+

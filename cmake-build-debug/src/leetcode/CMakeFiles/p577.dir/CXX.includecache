@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/leetcode/p557.h
+string
+-
+
+/home/suzumiya/CLionProjects/beauty-in-code/src/leetcode/p557.cpp
+leetcode/p557.h
+/home/suzumiya/CLionProjects/beauty-in-code/src/leetcode/leetcode/p557.h
+cstdio
+-
+cstring
+-
+iostream
+-
+algorithm
+-
+

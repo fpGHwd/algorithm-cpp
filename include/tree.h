@@ -26,6 +26,6 @@ struct TreeNode {
 };
  */
 
-TreeNode* makeBinarySearchTree(TreeNode *root, vector<int> nums);
+TreeNode* makeBinarySearchTree(TreeNode *&root, vector<int> nums);
 
 #endif //BEAUTY_IN_CODE_TREE_H

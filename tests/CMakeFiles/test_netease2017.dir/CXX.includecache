@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/suzumiya/CLionProjects/beauty-in-code/tests/test_netease2017.cpp
+netease2017_01.h
+/home/suzumiya/CLionProjects/beauty-in-code/tests/netease2017_01.h
+
+include/netease/netease2017_01.h
+

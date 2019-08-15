@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/suzumiya/CLionProjects/beauty-in-code/unittests/unittest_google/test.cpp
+gtest/gtest.h
+-
+numeric
+-
+vector
+-
+

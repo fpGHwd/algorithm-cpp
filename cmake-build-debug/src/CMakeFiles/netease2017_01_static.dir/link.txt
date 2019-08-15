@@ -1,0 +1,2 @@
+/usr/bin/ar qc ../lib/libnetease2017_01_static.a  CMakeFiles/netease2017_01_static.dir/netease/p2017_01.cpp.o
+/usr/bin/ranlib ../lib/libnetease2017_01_static.a

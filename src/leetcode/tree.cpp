@@ -13,7 +13,7 @@ using namespace std;
 // 我从来都没有认真想过，自己要不要做好手边的事情，而不是为了杂七杂八的事情浪费自己现在的时间。
 
 // recursion version
-bool insertTreeNode(TreeNode *root , int val){
+bool insertTreeNode(TreeNode *& root , int val){
     auto *node = new TreeNode(val);
     if(!root){
         root = node;
@@ -25,7 +25,7 @@ bool insertTreeNode(TreeNode *root , int val){
             return insertTreeNode(root->right, val);
 }
 
-TreeNode* makeBinarySearchTree(TreeNode *root, vector<int> nums){
+TreeNode* makeBinarySearchTree(TreeNode *& root,vector<int> nums){
     for(auto n:nums){
         insertTreeNode(root, n);
     }

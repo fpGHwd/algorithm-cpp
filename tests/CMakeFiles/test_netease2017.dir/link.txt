@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/test_netease2017.dir/test_netease2017.cpp.o  -o ../bin/test_netease2017  -L/home/suzumiya/CLionProjects/beauty-in-code/lib  -L/usr/local/lib -Wl,-rpath,/home/suzumiya/CLionProjects/beauty-in-code/lib:/usr/local/lib -lnetease_2017 

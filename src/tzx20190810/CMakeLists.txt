@@ -1,0 +1,1 @@
+add_executable(ptz ptz.cpp)

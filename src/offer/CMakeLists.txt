@@ -1,1 +1,5 @@
 add_executable(string-p42 page42.cpp)
+add_executable(P12 P12.cpp)
+add_executable(P13 P13.cpp)
+add_executable(P14 P14.cpp)
+add_executable(P15 P15.cpp)

@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/liurujia/tree.h
+
+/home/suzumiya/CLionProjects/beauty-in-code/src/liurujia/tree.cpp
+liurujia/tree.h
+/home/suzumiya/CLionProjects/beauty-in-code/src/liurujia/liurujia/tree.h
+vector
+-
+queue
+-
+
