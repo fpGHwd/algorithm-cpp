@@ -12,14 +12,15 @@ struct TestStruct{
     char str[0];
 };
 
+// 陈皓博客里的一个问题
+
 int main(int argc, char **argv){
 
     TestStruct * ptr = nullptr;
 
     printf("%x\n", ptr);
-    printf("%x\n", ptr->i); // interrupted by signal 11: SIGSEGV
+//    printf("%x\n", ptr->i); // interrupted by signal 11: SIGSEGV
     printf("%x\n", ptr->str);
-
 
     return 0;
 }
