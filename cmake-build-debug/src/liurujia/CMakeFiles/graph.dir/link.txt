@@ -1,1 +1,0 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/graph.dir/graph.cpp.o  -o ../../bin/graph  -L/home/suzumiya/CLionProjects/beauty-in-code/cmake-build-debug/lib  -L/usr/local/lib  -L/usr/local/lib64 

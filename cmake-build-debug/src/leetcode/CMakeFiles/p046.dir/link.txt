@@ -1,1 +1,0 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/p046.dir/p046.cpp.o  -o ../../bin/p046  -L/home/suzumiya/CLionProjects/beauty-in-code/cmake-build-debug/lib  -L/usr/local/lib  -L/usr/local/lib64 

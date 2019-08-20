@@ -1,1 +1,0 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/test_netease201701.dir/test_netease/netease2017.cpp.o  -o ../../bin/test_netease201701  -L/home/suzumiya/CLionProjects/beauty-in-code/cmake-build-debug/lib  -L/usr/local/lib  -L/usr/local/lib64 -Wl,-rpath,/home/suzumiya/CLionProjects/beauty-in-code/cmake-build-debug/lib:/usr/local/lib:/usr/local/lib64 ../../lib/libnetease2017_01.so 

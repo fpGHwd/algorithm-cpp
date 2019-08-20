@@ -1,1 +1,0 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/p169.dir/p169.cpp.o  -o ../../bin/p169  -L/home/suzumiya/CLionProjects/beauty-in-code/cmake-build-debug/lib  -L/usr/local/lib  -L/usr/local/lib64 

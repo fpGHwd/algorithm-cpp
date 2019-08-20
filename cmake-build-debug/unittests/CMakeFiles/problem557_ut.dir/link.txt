@@ -1,1 +1,0 @@
-/usr/bin/c++  -g  -rdynamic CMakeFiles/problem557_ut.dir/unittest_google/leetcode/problem557_ut.cpp.o  -o ../bin/problem557_ut  -L/home/suzumiya/CLionProjects/beauty-in-code/cmake-build-debug/lib  -L/usr/local/lib  -L/usr/local/lib64 

@@ -1,1 +1,0 @@
-/usr/bin/c++ -fPIC -g  -shared -Wl,-soname,libnetease2017_01.so -o ../lib/libnetease2017_01.so CMakeFiles/netease2017_01.dir/netease/p2017_01.cpp.o  -L/home/suzumiya/CLionProjects/beauty-in-code/cmake-build-debug/lib  -L/usr/local/lib  -L/usr/local/lib64 
