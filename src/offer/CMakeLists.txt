@@ -24,3 +24,9 @@ add_executable(P32_2 P32_2.cc BinaryTree.cpp)
 add_executable(P32_3 P32_3.cc BinaryTree.cpp)
 add_executable(P33 P33.cc BinaryTree.cpp)
 add_executable(P34 P34.cc BinaryTree.cpp)
+add_executable(P36 P36.cc BinaryTree.cpp)
+add_executable(P40 P40.cc)
+
+add_executable(multiset multiset.cc)
+
+add_executable(P53 P53.cc)
