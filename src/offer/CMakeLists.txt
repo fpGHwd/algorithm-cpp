@@ -30,3 +30,8 @@ add_executable(P40 P40.cc)
 add_executable(multiset multiset.cc)
 
 add_executable(P53 P53.cc)
+add_executable(P54 P54.cc BinaryTree.cpp)
+add_executable(P55 P55_1.cc BinaryTree.cpp)
+add_executable(P55_2 P55_2.cc BinaryTree.cpp)
+add_executable(P56 P56.cc)
+add_executable(P56_2 P56_2.cc)
