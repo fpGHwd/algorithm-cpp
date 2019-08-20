@@ -160,3 +160,6 @@ int main()
 
 // namespace的文件内部的分类 // 看一眼就能懂
 //https://www.runoob.com/cplusplus/cpp-namespaces.html
+
+// todo 如何用到平衡二叉树和红黑树的实现
+// todo 比如要用到top-k的nlogn

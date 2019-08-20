@@ -8,10 +8,10 @@
 
 using namespace std;
 
-struct BinaryTreeNode{
+struct BinaryTreeNodeDouble{
     int m_nValue;
-    BinaryTreeNode* m_pLeft;
-    BinaryTreeNode* m_pRight;
+    BinaryTreeNodeDouble* m_pLeft;
+    BinaryTreeNodeDouble* m_pRight;
 };
 
 int main(){
@@ -24,7 +24,7 @@ int main(){
  * @param pRoot
  * @param stream
  */
-void Serialize(BinaryTreeNode *pRoot, ostream& stream){
+void Serialize(BinaryTreeNodeDouble *pRoot, ostream& stream){
     if(pRoot == nullptr){
         stream << "$,";
         return;
@@ -40,7 +40,7 @@ void Serialize(BinaryTreeNode *pRoot, ostream& stream){
  * @param pRoot
  * @param stream
  */
-void Deserialize(BinaryTreeNode ** pRoot, istream& stream){
+void Deserialize(BinaryTreeNodeDouble ** pRoot, istream& stream){
 
 }
 

@@ -2,8 +2,8 @@
 // Created by suzumiya on 8/20/19.
 //
 
-#ifndef BEAUTY_IN_CODE_BINARYTREENODE_H
-#define BEAUTY_IN_CODE_BINARYTREENODE_H
+#ifndef BEAUTY_IN_CODE_BINARYTREENODEDOUBLE_H
+#define BEAUTY_IN_CODE_BINARYTREENODEDOUBLE_H
 
 typedef struct binary_tree_node{
     int elem;
@@ -11,10 +11,10 @@ typedef struct binary_tree_node{
     struct binary_tree_node *right;
 }binary_tree_node, *binary_tree;
 
-struct BinaryTreeNode{
-    double              m_dbValue;
-    BinaryTreeNode*     m_pLeft;
-    BinaryTreeNode*     m_pRight;
+struct BinaryTreeNodeDouble{
+    double                      m_dbValue;
+    BinaryTreeNodeDouble*       m_pLeft;
+    BinaryTreeNodeDouble*       m_pRight;
 };
 
 class BinaryTree {
@@ -29,4 +29,4 @@ public:
 //void BinaryTree::preorder_traverse_recursive1(binary_tree *root);
 
 
-#endif //BEAUTY_IN_CODE_BINARYTREENODE_H
+#endif //BEAUTY_IN_CODE_BINARYTREENODEDOUBLE_H
