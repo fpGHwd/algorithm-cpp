@@ -1,0 +1,1 @@
+add_executable(P3_2 P3.cc)
