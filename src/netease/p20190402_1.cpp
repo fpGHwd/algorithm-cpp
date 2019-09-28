@@ -19,7 +19,7 @@ bool isConnect(){
 }
 
 int main(int argc, char ** argv){
-    freopen("/home/suzumiya/CLionProjects/beauty-in-code/data/input", "r", stdin);
+    freopen("/home/suzumiya/CLionProjects/algorithm-cpp/data/input", "r", stdin);
 
     char temp[MAX_SIZE], ch;
     int len= 0;

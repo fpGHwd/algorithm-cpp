@@ -20,7 +20,7 @@ int dp[A];
 
 int netease(int argc, char ** argv){
 
-    freopen("/home/suzumiya/CLionProjects/beauty-in-code/data/input", "r", stdin);
+    freopen("/home/suzumiya/CLionProjects/algorithm-cpp/data/input", "r", stdin);
 
     int n, task[A] ,sum = 0,temp;
     scanf("%d", &n);

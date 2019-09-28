@@ -1,4 +1,4 @@
-# Install script for directory: /home/suzumiya/CLionProjects/beauty-in-code/unittests
+# Install script for directory: /home/suzumiya/CLionProjects/algorithm-cpp/unittests
 
 # Set the install prefix
 if(NOT DEFINED CMAKE_INSTALL_PREFIX)
