@@ -1,0 +1,1 @@
+add_executable(perfect-squares perfect-squares.cpp)
