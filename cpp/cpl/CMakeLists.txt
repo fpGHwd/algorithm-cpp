@@ -1,0 +1,5 @@
+add_subdirectory(5.12-pointer-to-function)
+add_subdirectory(4.1-grep)
+add_subdirectory(4.4-scope-rules)
+add_subdirectory(5.10-echo)
+add_subdirectory(6.1-structure)

@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.2)
-project(beauty_in_code)
+project(algorithm-cpp)
 set(CMAKE_CXX_STANDARD 14)
 
 include_directories(
@@ -25,3 +25,4 @@ set(LIBRARY_OUTPUT_PATH  ${PROJECT_BINARY_DIR}/lib)
 add_subdirectory(src)
 add_subdirectory(tests)
 add_subdirectory(unittests)
+add_subdirectory(cpp)

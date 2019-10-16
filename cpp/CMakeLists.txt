@@ -1,0 +1,10 @@
+add_executable(cosnt const.cc)
+add_executable(vector vector.cc)
+add_executable(ClassTest ClassTest.cc Main.cc)
+add_executable(MemoryAlignment.cc MemoryAlignment.cc)
+add_executable(ClassSize.cc ClassSize.cc)
+add_executable(CopyConstructor.cc CopyConstructor.cc)
+add_executable(CopyConstructor2.cc CopyConstructor2.cc)
+
+add_subdirectory(cpl)
+add_subdirectory(endian)
