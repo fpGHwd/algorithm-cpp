@@ -68,7 +68,6 @@ public:
         nums[a] = nums[b];
         nums[b] = temp;
     }
-
 };
 
 // 只能用字典序来排序
