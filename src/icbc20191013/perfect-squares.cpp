@@ -42,7 +42,7 @@ int perfect_squares_math(int n){
             return 2;
         }
     }
-    while ((n & 3) == 0) {      // n % 4 == 0
+    while ((n & 4) == 0) {      // n % 4 == 0
         n >>= 2;
     }
     if (((n - 7) & 7) == 0) {   // (n - 7) % 8 == 0
