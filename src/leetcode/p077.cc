@@ -1,7 +1,6 @@
 //
 // Created by suzumiya on 10/18/19.
 //
-#include <iostream>
 #include <vector>
 
 using namespace std;
@@ -33,6 +32,11 @@ public:
         return ret;
     }
 };
+
+/**
+ * Runtime: 136 ms, faster than 21.44% of C++ online submissions for Combinations.
+ * Memory Usage: 52.9 MB, less than 10.00% of C++ online submissions for Combinations.
+ */
 
 int main(int argc, char **argv)
 {
