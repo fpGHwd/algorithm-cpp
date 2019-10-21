@@ -32,3 +32,4 @@ add_subdirectory(tzxdsl20190921)
 add_subdirectory(cpp-interview)
 
 add_subdirectory(icbc20191013)
+add_subdirectory(misc)
