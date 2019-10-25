@@ -1,0 +1,1 @@
+add_executable(calc main.cc stack.cc getch.cc getop.c)

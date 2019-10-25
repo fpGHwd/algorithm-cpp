@@ -1,0 +1,1 @@
+add_executable(struct-assign struct-assign.cc)
