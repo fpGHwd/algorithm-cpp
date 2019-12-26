@@ -35,3 +35,6 @@ add_executable(p093 p093.cpp)
 add_executable(p0079 p0079.cpp)
 add_executable(p1009 p1009.cc)
 add_executable(p1154 p1154.cc)
+add_executable(p0892 p0892.cc)
+
+add_executable(p0942 p0942.cc)
