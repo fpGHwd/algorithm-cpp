@@ -3,7 +3,7 @@ project(algorithm-cpp)
 set(CMAKE_CXX_STANDARD 14)
 
 include_directories(
-        ${PROJECT_SOURCE_DIR}/include
+        ${PROJECT_SOURCE_DIR}/src/include
         /usr/local/include
         /usr/include
 )
@@ -23,6 +23,3 @@ set(EXECUTABLE_OUTPUT_PATH ${PROJECT_BINARY_DIR}/bin)
 set(LIBRARY_OUTPUT_PATH  ${PROJECT_BINARY_DIR}/lib)
 
 add_subdirectory(src)
-add_subdirectory(tests)
-add_subdirectory(unittests)
-add_subdirectory(cpp)

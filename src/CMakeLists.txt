@@ -10,6 +10,9 @@ SET_TARGET_PROPERTIES(netease2017_01 PROPERTIES CLEAN_DIRECT_OUTPUT 1)
 add_library(netease2017_01_static STATIC ${netease2017_01_srcs})
 SET_TARGET_PROPERTIES(netease2017_01_static PROPERTIES CLEAN_DIRECT_OUTPUT 1)
 
+# unit test
+add_subdirectory(tests)
+add_subdirectory(unittests)
 
 # sub directory
 add_subdirectory(leetcode)
