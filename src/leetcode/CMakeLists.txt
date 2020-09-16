@@ -31,7 +31,7 @@ add_executable(p077 p077.cc)
 add_executable(p071 p071.cc)
 add_executable(p075 p075.cpp)
 
-add_executable(p093 p093.cpp)
+# add_executable(p093 p093.cpp)
 add_executable(p0079 p0079.cpp)
 add_executable(p1009 p1009.cc)
 add_executable(p1154 p1154.cc)
@@ -42,3 +42,13 @@ add_executable(p0949 p0949.cc)
 add_executable(p0039 p0039.cc)
 
 add_executable(p0060 p0060.cc)
+add_executable(p453 p453.cpp)
+
+add_executable(p1253 p1253.cc)
+add_executable(p0554 p0554.cc)
+
+add_executable(p0880 p0880.cc)
+add_executable(p0449 p0449.cc)
+add_executable(p0866 p0866.cc)
+add_executable(p0779 p0779.cc)
+add_executable(p0487 p0487.cc)

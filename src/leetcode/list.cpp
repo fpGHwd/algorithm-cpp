@@ -2,7 +2,7 @@
 // Created by suzumiya on 4/15/19.
 //
 
-#include "list.h"
+#include "../../include/list.h"
 
 #include <vector>
 #include <cstdlib>
