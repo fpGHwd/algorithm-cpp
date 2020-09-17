@@ -2,6 +2,9 @@ cmake_minimum_required(VERSION 3.2)
 project(algorithm-cpp)
 set(CMAKE_CXX_STANDARD 14)
 
+set(CMAKE_BUILD_TYPE Debug)
+set(CMAKE_EXPORT_COMPILE_COMMANDS ON)
+
 include_directories(
         ${PROJECT_SOURCE_DIR}/src/include
         /usr/local/include
