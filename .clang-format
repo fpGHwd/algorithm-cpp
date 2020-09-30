@@ -1,0 +1,9 @@
+BasedOnStyle: LLVM
+AllowShortFunctionsOnASingleLine: false
+AlwaysBreakTemplateDeclarations: true
+BinPackParameters: false
+BreakConstructorInitializersBeforeComma: true
+ConstructorInitializerAllOnOneLineOrOnePerLine: true
+ConstructorInitializerIndentWidth: 4
+IndentFunctionDeclarationAfterType: false
+IndentWidth: 4

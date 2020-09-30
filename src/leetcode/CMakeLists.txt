@@ -54,3 +54,25 @@ add_executable(p0779 p0779.cc)
 add_executable(p0487 p0487.cc)
 add_executable(p0474 p0474.cc)
 add_executable(p0700 p0700.cc)
+add_executable(p5519 p5519.cc)
+add_executable(p5521 p5521.cc)
+add_executable(p0143 p0143.cc)
+add_executable(p0152 p0152.cc)
+
+add_executable(p0010 p0010.cc)
+add_executable(p0807 p0807.cc)
+
+add_executable(p0821 p0821.cc)
+
+add_executable(p0665 p0665.cc)
+
+add_executable(p0674 p0674.cc)
+
+add_executable(leetcode_contest_208_p2 leetcode_contest_208_p2.cc)
+
+add_executable(p0528 p0528.cc)
+add_executable(p0093 p0093.cc)
+
+add_executable(p0874 p0874.cc)
+
+add_executable(p0749 p0749.cc)
